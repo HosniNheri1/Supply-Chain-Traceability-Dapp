@@ -9,7 +9,13 @@ Track a product from **manufacturing to delivery** with **timestamped, transpare
 
 ## Demo & Report
 
-- 🎬 **Demo video:** [Projet_vid_o.mp4](Projet_vid_o.mp4): full walkthrough on Sepolia: create product, ship, transit, delivery, timeline, Etherscan proof.
+- 🎬 **Demo video: full walkthrough on Sepolia: create product, ship, transit, delivery, timeline, Etherscan proof.
+
+
+Uploading Projet vidéo.mp4…
+
+
+  
 - 📄 **Illustrated report (HTML):** [Supply_Chain_DApp_Report.html](Supply_Chain_DApp_Report.html): step-by-step write-up with screenshots.
 
 ## Architecture
