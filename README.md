@@ -12,11 +12,10 @@ Track a product from **manufacturing to delivery** with **timestamped, transpare
 - 🎬 **Demo video: full walkthrough on Sepolia: create product, ship, transit, delivery, timeline, Etherscan proof.
 
 
-Uploading Projet vidéo.mp4…
-
+https://github.com/user-attachments/assets/17023263-af5e-4b6c-9110-d8f64b65623a
 
   
-- 📄 **Illustrated report (HTML):** [Supply_Chain_DApp_Report.html](Supply_Chain_DApp_Report.html): step-by-step write-up with screenshots.
+- 📄 **Illustrated report :http://hosninheri1.github.io/Supply-Chain-Traceability-Dapp/Supply_Chain_DApp_Report.html
 
 ## Architecture
 
